@@ -1,0 +1,9 @@
+numpy
+matplotlib
+torch==2.3.0
+torchaudio==2.3.0
+torchvision==0.18.0
+sympy
+requests
+ipykernel
+jupyter_client
